@@ -1,0 +1,3 @@
+#/bin/bash
+ls -l
+cp /123 /etc/123
